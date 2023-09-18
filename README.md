@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharv</h1>
 <h3 align="center">A hardworking and passionate Machine Learning Engineer who loves to use Artificial Intelligence to solve real world problems.</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+
 - 🔭 I’m currently working on [Pothole Detection and Mapping](https://universe.roboflow.com/pothole-ipd/ipd-pothole-detection/model/5)
 
 - 🌱 I’m currently learning **Deep Learning**
