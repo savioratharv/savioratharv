@@ -25,8 +25,11 @@
 ### Toolbox
 
 **Modeling:** PyTorch · Hugging Face · RLHF / PPO / GRPO · contextual bandits · RecSys
+
 **LLM systems:** RAG · LangChain · LLM-as-judge evaluation · multi-agent pipelines
+
 **Infra:** Spark / EMR · MLflow · Kafka · Docker · HPC (Slurm on PSC Bridges-2)
+
 **Languages:** Python · SQL · C++ · Java
 
 ### Get in touch
